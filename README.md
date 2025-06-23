@@ -25,3 +25,13 @@
       <td><img alt="Stars" src="https://img.shields.io/badge/1-blue?style=flat&label=stars&labelColor=343b41"></td>
       <td><img alt="Forks" src="https://img.shields.io/badge/0-blue?style=flat&label=forks&labelColor=343b41"></td>
       <td>✅</td>
+    <tr>
+      <td><a href="https://github.com/balamutt1/giveaway-bot"><b>Giveaway bot</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/badge/1-blue?style=flat&label=stars&labelColor=343b41"></td>
+      <td><img alt="Forks" src="https://img.shields.io/badge/0-blue?style=flat&label=forks&labelColor=343b41"></td>
+      <td>✅</td>
+    </tr>
+</tbody>
+</table>
+</div>
+</p>
