@@ -1,3 +1,13 @@
+
+
+<br />
+
+<div align="center">
+<img src="https://github.com/balamutt1/balamutt1/blob/main/standard%20(3).gif" alt="" width="600">
+</div>
+
+<br />
+
 <p align="center" style="font-size:1550px; font-weight:bold; margin: 0;"> 𝗔𝗯𝗼𝘂𝘁 𝗺𝗲
 </p>
 
@@ -35,3 +45,11 @@
 </table>
 </div>
 </p>
+
+<br />
+
+<div align="center">
+<img src="https://cdn.discordapp.com/attachments/1348011461892374590/1350903887506178149/LOL.gif?ex=685a4a89&is=6858f909&hm=5ae0e277b222c5681a2803833fc1d12fbf8cc12df107348d49e798da549d036e&" alt="" width="280">
+</div>
+
+<br />
